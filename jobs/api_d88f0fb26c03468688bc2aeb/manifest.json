@@ -1,0 +1,32 @@
+{
+  "job_id": "api_d88f0fb26c03468688bc2aeb",
+  "mode": "zip_split",
+  "file_url": "https://free-dl2.myalphadl.com/ja0UA4bOCRXXD21FL-zuew/Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 323418782,
+  "created_at_utc": "2026-05-29T10:40:21.991435+00:00",
+  "zip_folder": "jobs/api_d88f0fb26c03468688bc2aeb/zip",
+  "zip_main_file": "Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_d88f0fb26c03468688bc2aeb/zip/Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_d88f0fb26c03468688bc2aeb/zip/Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_d88f0fb26c03468688bc2aeb/zip/Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_d88f0fb26c03468688bc2aeb/zip/Half.Man.S01E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 40303532
+    }
+  ]
+}
